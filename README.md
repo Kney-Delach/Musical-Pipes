@@ -3,7 +3,7 @@
 
 ![date](https://img.shields.io/badge/Build%20Date-28.10.19-informational) <!---IsComplete.CourseworkSection.BranchNo.BranchIteration-->
 ![version](https://img.shields.io/badge/Game%20Version-1.0-FD175C)
-![level-count](https://img.shields.io/badge/Song%20Count-5-purple)
+![level-count](https://img.shields.io/badge/Song%20Count-4-purple)
 ![difficulty](https://img.shields.io/badge/Difficulty-5/10-brightgreen)
 ![core-dynamic](https://img.shields.io/badge/Core%20Dynamic-Survival-FF8C00)
 
@@ -36,3 +36,7 @@ This game was created with the aim to showcase real-time signal analysis based p
 |:------:|:-------------:|:---------:|:--------:|
 |[Music Based Real-Time Block Popup]()|The player must survive for as long as possible by avoiding any blocks generated on the pipes.|![v1.0.0][version-1.0.0]|![Active][active]|
 |[Slow Motion]()|By holding the space bar, the player has teh ability to slow down the speed of the level, allowing them to have a better chance at surviving a deadly situation!|![v1.0.0][version-1.0.0]|![Active][active]|
+
+<a name="build-notes"></a>
+## Known Issues
+Do not select the leaderboards until you have completed at least 1 full song, or else it may result in unexpected behaviour.
